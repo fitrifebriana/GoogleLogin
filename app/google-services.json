@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278628208122",
+    "project_id": "root-territory-133423"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278628208122:android:8e9e0c11b56b45f1",
+        "android_client_info": {
+          "package_name": "id.or.codelabs.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278628208122-mg53gu62as8vljbegmja6lgn1h789nii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.or.codelabs.googlelogin",
+            "certificate_hash": "6EE43DD44C7AA15F56414EC0F867E1E8CB01F27E"
+          }
+        },
+        {
+          "client_id": "278628208122-uslqieo16o4q68hq5nfb2b4m4l96bpfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPs-SxLtJTH5sb8Y64HFEs0whNOMVNw08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
